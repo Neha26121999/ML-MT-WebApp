@@ -6,7 +6,7 @@ itsdangerous
 Jinja2
 MarkupSafe
 Werkzeug
-tensorflow
+
 Pillow
 numpy
 scikit-learn
